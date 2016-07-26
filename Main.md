@@ -23,3 +23,12 @@ As Kanye West said:
 
 I think you should use an
 `<addr>` element here instead.
+
+## <h2> inline code
+
+I think you should use an
+`<addr>` element here instead.
+
+## <h2> StrikeThrough
+
+~~this~~
