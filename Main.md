@@ -32,3 +32,7 @@ I think you should use an
 ## <h2> StrikeThrough
 
 ~~this~~
+
+## <h2> Emoji
+
+:camel:
